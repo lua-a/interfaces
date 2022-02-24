@@ -1,0 +1,14 @@
+
+
+.formato {
+    text-align: center;
+    font-family: Courier;
+    margin: 10px auto;
+}
+
+.formatoTexto {
+    text-align: center;
+    font-family: Courier;
+    width: 60%;
+    margin: 10px auto;
+}
